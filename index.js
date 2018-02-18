@@ -15,3 +15,5 @@ function multiply(a, b) {
 function divide(a, b) {
  return a / b
 }
+
+function addOne()
