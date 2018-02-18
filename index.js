@@ -16,4 +16,6 @@ function divide(a, b) {
  return a / b
 }
 
-function addOne()
+function inc(a) {
+  return a += a 
+}
